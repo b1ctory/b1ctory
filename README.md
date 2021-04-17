@@ -1,4 +1,6 @@
-🌱 I’m preparing to be iOS Developer
+💻 iOS Developer Suebin Cheon
+🌱 I’m currently learning Android Kotlin
+📫 How to reach me: exception@kakao.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
