@@ -28,8 +28,7 @@
 
 <h2> <p align="center"> <b> 📫 How to reach me</b> </p> </h2>
 <p align="center"> <img src="https://img.shields.io/badge/e--mail-%20exception%40kakao.com-ffe812"/> 
-<a href="https://exception-log.tistory.com/"> <img src="https://img.shields.io/badge/Blog-Exception--Log-33CC00"/> </a>
- <img src="https://img.shields.io/badge/e--mail%20exception%40kakao.com-ffe812"/> 
+<a href="https://exception-log.tistory.com/"> <img src="https://img.shields.io/badge/Blog-Exception--Log-CC0000"/> </a>
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
