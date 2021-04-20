@@ -4,7 +4,7 @@
  <h1> <p align="center"><b> 🖥️ iOS & Android Developer Suebin Cheon </b>  </p> </h1>
 <p align="center"> 🌱 I’m studying Android/Kotlin & iOS/Swift </p>
  
-<h2> <p align="center"> <b> 🚀 Technology Stack </b> </p> </h2>
+<h2> <p align="center"> <b> 🚀 Technology Stack 🚀 </b> </p> </h2>
 
 <p align="center"> <img src="https://img.shields.io/badge/-iOS-red"/> 
  <img src="https://img.shields.io/badge/-Android-brightgreen"/> </p>
@@ -31,12 +31,12 @@
 <a href="https://exception-log.tistory.com/"> <img src="https://img.shields.io/badge/Blog-Exception--Log-CC0000"/> </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 💬 Github Stats 💬
+[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&theme=buefy&count_private=true&show_icons=true&line_height=33)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **b1ctory/b1ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
