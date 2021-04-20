@@ -25,9 +25,8 @@
 <img src="https://img.shields.io/badge/-Hibernate-FF6633"/> </p>
 
 <p align="center">
- 
+ <img src="https://img.shields.io/badge/-Git-9966CC"/>
 <img src="https://img.shields.io/badge/-Linux-black"/> 
-
 <img src="https://img.shields.io/badge/-Mac-999999"/> </p>
 
 
