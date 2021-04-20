@@ -25,15 +25,15 @@
 <img src="https://img.shields.io/badge/-Hibernate-FF6633"/> </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Git-9966CC"/>
-<img src="https://img.shields.io/badge/-Linux-black"/> 
-<img src="https://img.shields.io/badge/-Mac-999999"/> </p>
+ <img src="https://img.shields.io/badge/-Git-999999"/>
+<img src="https://img.shields.io/badge/-AWS-black"/>  </p>
 
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 <!--
 **b1ctory/b1ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
