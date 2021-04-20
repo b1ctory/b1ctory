@@ -1,3 +1,6 @@
+<p align="center"> 🚀  </p> 
+
+
 💻 iOS Developer Suebin Cheon
 
 🌱 I’m currently learning Android Kotlin
