@@ -9,12 +9,16 @@
 <h2> <p align="center"> <b> 🚀 Technology Stack </b> </p> </h2>
 
 <p align="center"> <img src="https://img.shields.io/badge/-iOS-red"/> 
- <img src="https://img.shields.io/badge/-Android-brightgreen"/> 
+ <img src="https://img.shields.io/badge/-Android-brightgreen"/> </p>
 
-<p align="center> <img src="https://img.shields.io/badge/-swift-FFCC00"/> 
-  <img src="https://img.shields.io/badge/-Kotlin-3333FF"/>  <p>
+<p align="center"> 
+<img src="https://img.shields.io/badge/-swift-FFCC00"/> 
+<img src="https://img.shields.io/badge/-Kotlin-3333FF"/>   
+<img src="https://img.shields.io/badge/-Java-yellow"/>   
+ </p>
 
-<img src="https://img.shields.io/badge/-Java-yellow"/> 
+
+<p align="center">
 <img src="https://img.shields.io/badge/-Springboot-blue"/> 
 <img src="https://img.shields.io/badge/-React-FF66FF"/> 
 <img src="https://img.shields.io/badge/-MySQL-6633CC"/> 
