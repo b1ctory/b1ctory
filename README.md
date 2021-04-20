@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=exception's%20github&fontSize=90)
 
 
-<p align="center"> <h3> <b> 🖥️ iOS & Android Developer Suebin Cheon </b> </h1> </p> 
+ <h1> <p align="center"><b> 🖥️ iOS & Android Developer Suebin Cheon </b>  </p> </h1>
 <p align="center"> 🌱 I’m currently learning Android Kotlin </p>
 <p align="center"> 📫 How to reach me: exception@kakao.com </p>
 
