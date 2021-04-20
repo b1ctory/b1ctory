@@ -14,7 +14,7 @@
 <p align="center"> 
 <img src="https://img.shields.io/badge/-swift-FFCC00"/> 
 <img src="https://img.shields.io/badge/-Kotlin-3333FF"/>   
-<img src="https://img.shields.io/badge/-Java-yellow"/>   
+<img src="https://img.shields.io/badge/-Java-yellow"/> 
  </p>
 
 
@@ -22,8 +22,14 @@
 <img src="https://img.shields.io/badge/-Springboot-blue"/> 
 <img src="https://img.shields.io/badge/-React-FF66FF"/> 
 <img src="https://img.shields.io/badge/-MySQL-6633CC"/> 
-<img src="https://img.shields.io/badge/-Hibernate-FF6633"/> 
-<img src="https://img.shields.io/badge/-Linux command-yellowgreen"/> </p>
+<img src="https://img.shields.io/badge/-Hibernate-FF6633"/> </p>
+
+<p align="center">
+ 
+<img src="https://img.shields.io/badge/-Linux-black"/> 
+
+<img src="https://img.shields.io/badge/-Mac-999999"/> </p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
