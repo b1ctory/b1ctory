@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/-AWS-black"/>  </p>
 
 <h2> <p align="center"> <b> 📫 How to reach me</b> </p> </h2>
-<p align="center"> <img src="https://img.shields.io/badge/e--mail%20exception%40kakao.com-ffe812"/> 
-<a href="https://exception-log.tistory.com/"> <img src="https://img.shields.io/badge/Blog%20Exception-Log-33CC00"/> </a>
+<p align="center"> <img src="https://img.shields.io/badge/e--mail-%20exception%40kakao.com-ffe812"/> 
+<a href="https://exception-log.tistory.com/"> <img src="https://img.shields.io/badge/Blog-Exception--Log-33CC00"/> </a>
  <img src="https://img.shields.io/badge/e--mail%20exception%40kakao.com-ffe812"/> 
 </p>
 
