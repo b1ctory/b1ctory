@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 <p align="center"> <b> 🖥️ iOS Developer Suebin Cheon </b> </p> 
 <p align="center"> 🌱 I’m currently learning Android Kotlin </p>
 <p align="center"> 📫 How to reach me: exception@kakao.com </p>
