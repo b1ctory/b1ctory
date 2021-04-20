@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=exception's%20github&fontSize=90)
-
-
  <h2> <p align="center"><b> 🖥️ iOS & Android Developer Suebin Cheon </b>  </p> </h2>
 <p align="center"> 🌱 I’m studying Android/Kotlin & iOS/Swift </p>
- 
 <h2> <p align="center"> <b> 🚀 Technology Stack 🚀 </b> </p> </h2>
-
 <p align="center"> <img src="https://img.shields.io/badge/-iOS-red"/> 
  <img src="https://img.shields.io/badge/-Android-brightgreen"/> </p>
 
@@ -33,7 +29,7 @@
 
 
 ## 💬 Github Stats 💬
-[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&theme=buefy&count_private=true&show_icons=true&line_height=33)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&theme=buefy&exclude_repo=DigitalContentsFinalProject&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&theme=buefy&count_private=true&show_icons=true&line_height=33)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&theme=buefy&exclude_repo=DigitalContentsFinalProject&langs_count=4&card_width=352)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
