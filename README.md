@@ -1,9 +1,11 @@
-<p align="center"> <b> 🚀 iOS Developer Suebin Cheon </b> </p> 
+<p align="center"> <b> 🖥️ iOS Developer Suebin Cheon </b> </p> 
+<p align="center"> 🌱 I’m currently learning Android Kotlin </p>
+<p align="center"> 📫 How to reach me: exception@kakao.com </p>
 
+<hr/>
+ 
+ <p align="center"> <b> 🚀 Technology Stack </b> </p> 
 
-🌱 I’m currently learning Android Kotlin
-
-📫 How to reach me: exception@kakao.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
