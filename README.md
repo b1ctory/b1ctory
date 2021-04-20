@@ -3,8 +3,6 @@
 
  <h1> <p align="center"><b> 🖥️ iOS & Android Developer Suebin Cheon </b>  </p> </h1>
 <p align="center"> 🌱 I’m studying Android/Kotlin & iOS/Swift </p>
-<p align="center"> 📫 How to reach me: exception@kakao.com </p>
- 
  
 <h2> <p align="center"> <b> 🚀 Technology Stack </b> </p> </h2>
 
@@ -28,12 +26,17 @@
  <img src="https://img.shields.io/badge/-Git-999999"/>
 <img src="https://img.shields.io/badge/-AWS-black"/>  </p>
 
-<p align="center">
+<h2> <p align="center"> <b> 📫 How to reach me</b> </p> </h2>
+<p align="center"> <img src="https://img.shields.io/badge/e--mail%20exception%40kakao.com-ffe812"/> 
+<a href="https://exception-log.tistory.com/"> <img src="https://img.shields.io/badge/Blog%20Exception-Log-33CC00"/> </a>
+ <img src="https://img.shields.io/badge/e--mail%20exception%40kakao.com-ffe812"/> 
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+
 
 <!--
 **b1ctory/b1ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
