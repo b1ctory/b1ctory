@@ -33,10 +33,9 @@
 
 
 ## 💬 Github Stats 💬
-[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&theme=buefy&count_private=true&show_icons=true&line_height=33)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Exception's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1ctory&theme=buefy&count_private=true&show_icons=true&line_height=33)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&theme=buefy&exclude_repo=DigitalContentsFinalProject&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ctory&exclude_repo=DigitalContentsFinalProject&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **b1ctory/b1ctory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
