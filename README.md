@@ -1,7 +1,5 @@
-<p align="center"> 🚀  </p> 
+<p align="center"> <b> 🚀 iOS Developer Suebin Cheon </b> </p> 
 
-
-💻 iOS Developer Suebin Cheon
 
 🌱 I’m currently learning Android Kotlin
 
