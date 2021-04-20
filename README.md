@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/-Android-brightgreen"/> </p>
 
 <p align="center"> 
-<img src="https://img.shields.io/badge/-swift-FFCC00"/> 
+<img src="https://img.shields.io/badge/-Swift-FFCC00"/> 
 <img src="https://img.shields.io/badge/-Kotlin-3333FF"/>   
 <img src="https://img.shields.io/badge/-Java-yellow"/> 
  </p>
