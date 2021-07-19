@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=exception's%20github&fontSize=90)
  <h2> <p align="center"><b> 🖥️ iOS & Android Developer Suebin Cheon </b> </p> </h2>
-<p align="center"> 🌱 I’m studying Android/Kotlin & iOS/Swift </p>
+<p align="center"> 🌱 Handling Android/Kotlin & iOS/Swift </p>
 <p align="center"> 💬 I want to be a developer who makes interesting services. </p>
 <h2> <p align="center"> <b> 🚀 Technology Stack 🚀 </b> </p> </h2>
 <p align="center"> <img src="https://img.shields.io/badge/-iOS-red"/> 
